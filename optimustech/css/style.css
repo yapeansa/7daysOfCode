@@ -1,0 +1,25 @@
+:root { --cinza: #667085; --fonte-principal: 'Inter'; --branco: #FFF; --vermelho: #8E2424; }
+
+body { font-family: var(--fonte-principal); }
+
+/* Navegação */
+
+header { display: grid; grid-template-columns: 20% auto 20%; padding: 1.5em 5em; }
+
+.nav__bar { display: flex; align-items: center; column-gap: 2em; }
+
+.nav__bar-link, .login { text-decoration: none; font-size: 16px; color: var(--cinza); font-weight: 500; }
+
+.login__cadastro { display: flex; justify-content: flex-end; align-items: center; column-gap: 2em; }
+
+.cadastro { text-decoration: none; color: var(--branco); background: var(--vermelho); padding: .7em 1.1em; border-radius: 10px; }
+
+/* Cabeçalho */
+
+.cabecalho { text-align: center; padding: 7em 18em 0; }
+
+.cabecalho__sobre { font-size:16px; font-weight: 600; color: var(--vermelho); }
+
+.cabecalho__titulo { font-size: 48px; font-weight: 600; margin: 1em 0; }
+
+.cabecalho__texto { font-size: 20px; font-weight: 400; color: var(--cinza); line-height: 1.6; }

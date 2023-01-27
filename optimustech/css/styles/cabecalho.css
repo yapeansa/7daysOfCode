@@ -1,0 +1,7 @@
+.cabecalho { text-align: center; padding: 7em 0 0; }
+
+.cabecalho__sobre { font-size:16px; font-weight: 600; color: var(--vermelho); }
+
+.cabecalho__titulo { font-size: 48px; font-weight: 600; margin: 1em 0; color: var(--preto); }
+
+.cabecalho__texto { font-size: 20px; font-weight: 400; color: var(--cinza); line-height: 1.6; margin: 0 15.5em; }

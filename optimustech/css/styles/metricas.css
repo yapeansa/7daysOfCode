@@ -1,7 +1,0 @@
-.metricas__container { display: flex; column-gap: 5em; padding: 8em 6em; }
- 
-.metricas__titulo { font-size: 60px; font-weight: 600; color: var(--vermelho); }
-
-.metricas__subtitulo { font-size: 18px; font-weight: 500; color: var(--preto); margin: 1em 0; }
-
-.metricas__texto { font-size: 16px; font-weight: 400; color: var(--cinza); }

@@ -1,9 +1,0 @@
-@import url('./styles/navegacao.css');
-
-@import url('./styles/cabecalho.css');
-
-@import url('./styles/metricas.css');
-
-:root { --cinza: #667085; --fonte-principal: 'Inter'; --branco: #FFF; --vermelho: #8E2424; --preto: #101828; }
-
-body { font-family: var(--fonte-principal); }

@@ -1,9 +1,0 @@
-.container__procurando { text-align: center; padding: 5em 6em 0; }
-
-.procurando__open { color: var(--vermelho); font-size: 14px; font-weight: 500; background-color: rgba(142, 36, 36, .1); padding: .5em 1em; border-radius: 20px; }
-
-.procurando__titulo { font-size: 36px; font-weight: 600; color: var(--preto); margin: 1em 0; }
-
-.procurando__texto { font-size: 20px; color: var(--cinza); font-weight: 400; }
-
-.procurando__imagem { margin: 4.5em auto 0; width: 95%; }

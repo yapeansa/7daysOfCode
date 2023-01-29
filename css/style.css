@@ -6,6 +6,14 @@
 
 @import url('./styles/talentos.css');
 
-:root { --cinza: #667085; --fonte-principal: 'Inter'; --branco: #FFF; --vermelho: #8E2424; --preto: #101828; }
+:root {
+    --cinza: #667085;
+    --fonte-principal: 'Inter';
+    --branco: #FFF;
+    --vermelho: #8E2424;
+    --preto: #101828;
+}
 
-body { font-family: var(--fonte-principal); }
+body {
+    font-family: var(--fonte-principal);
+}

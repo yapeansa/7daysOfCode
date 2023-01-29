@@ -6,12 +6,15 @@
 
 @import url('./styles/talentos.css');
 
+@import url('./styles/vagas.css');
+
 :root {
     --cinza: #667085;
     --fonte-principal: 'Inter';
     --branco: #FFF;
     --vermelho: #8E2424;
     --preto: #101828;
+    --cinza-claro: #EAECF0;
 }
 
 body {

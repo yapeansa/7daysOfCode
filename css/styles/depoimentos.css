@@ -1,0 +1,38 @@
+.depoimentos {
+    padding: 0 6em;
+}
+
+.container__us {
+    width: 95%;
+    margin: 6em auto;
+    background: rgba(142, 36, 36, .05);
+    text-align: center;
+    border-radius: 16px;
+    padding: 4em 0;
+}
+
+.speaking {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.depoimentos__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--preto);
+    margin: 1em;
+}
+
+.nome {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--preto);
+    margin: 1em 0;
+}
+
+.cargo {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza);
+}

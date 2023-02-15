@@ -1,6 +1,6 @@
 # OptimusTech | Projeto 7DaysOfCode
 
-Projeto desenvolvido para colocar em prática os conceitos desenvolvidos na formação HTMl e CSS da Alura.
+Projeto desenvolvido para colocar em prática os conceitos desenvolvidos na formação HTMl e CSS da Alura, como por exemplo, posicionamente com Flexbox e Grid.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |

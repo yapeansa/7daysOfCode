@@ -6,7 +6,7 @@ Projeto desenvolvido para colocar em prática os conceitos desenvolvidos na form
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
 | :label: Tecnologias | html, css (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://yapeansa.github.io/7daysOfCode
 | :fire: Desafio     | https://yapeansa.github.io/7daysOfCode
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->

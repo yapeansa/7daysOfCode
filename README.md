@@ -5,7 +5,7 @@ Projeto desenvolvido para colocar em prática os conceitos desenvolvidos na form
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
-| :label: Tecnologias | html, css (tecnologias utilizadas)
+| :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
 | :rocket: URL         | https://yapeansa.github.io/7daysOfCode
 | :fire: Desafio     | https://yapeansa.github.io/7daysOfCode
 

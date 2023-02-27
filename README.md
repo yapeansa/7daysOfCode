@@ -10,7 +10,7 @@ Projeto desenvolvido para colocar em prática os conceitos desenvolvidos na form
 | :fire: Desafio     | https://yapeansa.github.io/7daysOfCode
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![OptimusTech](img/projeto.png)
+![OptimusTech](img/projeto.png#vitrinedev)
 
 <!--
 ## Detalhes do projeto

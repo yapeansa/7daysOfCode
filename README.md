@@ -6,7 +6,7 @@ Projeto desenvolvido para colocar em prática os conceitos desenvolvidos na form
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
 | :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
-| :rocket: URL         | https://yapeansa.github.io/7daysOfCode
+| :rocket: URL         | https://7days-of-code-rho.vercel.app/
 | :fire: Desafio     | https://yapeansa.github.io/7daysOfCode
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
